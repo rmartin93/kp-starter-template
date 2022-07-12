@@ -8,5 +8,8 @@ $font-sizes: (
 	400: 1.125rem,
 );
 
-$fw-400: 400;
-$fw-700: 700;
+$font-weights: (
+	normal: 400,
+	bold: 700,
+	black: 900,
+);
